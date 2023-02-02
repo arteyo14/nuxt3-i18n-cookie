@@ -1,0 +1,13 @@
+{
+  "welcome": "Welcome!",
+  "home": "Home",
+  "about": "About us",
+  "lang": "Change to",
+  "service": {
+    "name": "SERVICES",
+    "branding": "Branding",
+    "design": "Design",
+    "marketing": "Marketing",
+    "advertisement": "Advertisement"
+  }
+}
